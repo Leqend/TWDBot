@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "all.db": "^0.1.2",
+    "all.db": "^0.1.5",
     "discord.js": "^13.6.0",
     "moment-timezone": "^0.5.34"
   }
