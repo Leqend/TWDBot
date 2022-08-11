@@ -1,0 +1,18 @@
+{
+    "kanallar":[
+        {"id":"KANAL ID","zorluk":"20","tür":"zombi"}
+    ],
+    "zombi":{
+        "20":{
+            "zombi":{"max":3,"min":1,"isim":"Cılız Zombi"},
+            "ihtimal":[
+                {"itemId":1,"olasılık":10},
+                {"itemId":2,"olasılık":20},
+                {"itemId":3,"olasılık":30},
+                {"itemId":4,"olasılık":40},
+                {"itemId":5,"olasılık":50},
+                {"itemId":6,"olasılık":60}
+            ]
+        }       
+    }
+}

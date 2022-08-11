@@ -1,0 +1,794 @@
+[
+  [
+    "Kedi",
+    1
+  ],
+  [
+    "Köpek",
+    2
+  ],
+  [
+    "Kartal",
+    3
+  ],
+  [
+    "Kurt",
+    4
+  ],
+  [
+    "Kaplan",
+    5
+  ],
+  [
+    "Ejderha",
+    31
+  ],
+  [
+    "Metal Testeresi",
+    1
+  ],
+  [
+    "Testere",
+    2
+  ],
+  [
+    "Çekiç",
+    3
+  ],
+  [
+    "Tornavida",
+    4
+  ],
+  [
+    "Pense",
+    5
+  ],
+  [
+    "Tencere",
+    6
+  ],
+  [
+    "Kumaş",
+    7
+  ],
+  [
+    "Sertleştirilmiş Deri",
+    8
+  ],
+  [
+    "Deri",
+    9
+  ],
+  [
+    "İp",
+    10
+  ],
+  [
+    "Çivi",
+    11
+  ],
+  [
+    "Mekanik Parçalar",
+    12
+  ],
+  [
+    "Barut",
+    13
+  ],
+  [
+    "Plastik",
+    14
+  ],
+  [
+    "Bakır",
+    15
+  ],
+  [
+    "Bant",
+    16
+  ],
+  [
+    "Taş",
+    17
+  ],
+  [
+    "Tahta",
+    18
+  ],
+  [
+    "İşlenmiş Tahta",
+    19
+  ],
+  [
+    "Elektronik",
+    20
+  ],
+  [
+    "Metal",
+    21
+  ],
+  [
+    "Çelik",
+    22
+  ],
+  [
+    "Mücevher",
+    23
+  ],
+  [
+    "İlaç Malzemeleri",
+    24
+  ],
+  [
+    "Kimyasal Malzemeler",
+    25
+  ],
+  [
+    "Şifalı Bitki",
+    26
+  ],
+  [
+    "Tütün",
+    27
+  ],
+  [
+    "Kağıt",
+    28
+  ],
+  [
+    "Boya",
+    29
+  ],
+  [
+    "Kaliteli Kumaş",
+    30
+  ],
+  [
+    "Kemik",
+    31
+  ],
+  [
+    "Güçlü Yapıştırıcı",
+    32
+  ],
+  [
+    "Metal Plaka",
+    33
+  ],
+  [
+    "Çelik Plaka",
+    34
+  ],
+  [
+    "Sertleştirilmiş Plastik",
+    35
+  ],
+  [
+    "Keskin Metal",
+    36
+  ],
+  [
+    "Keskin Çelik",
+    37
+  ],
+  [
+    "Araba Lastiği",
+    38
+  ],
+  [
+    "Araç Motoru",
+    39
+  ],
+  [
+    "Elektrik Kablosu",
+    40
+  ],
+  [
+    "Cam",
+    41
+  ],
+  [
+    "Sigara",
+    42
+  ],
+  [
+    "Evlilik Yüzüğü",
+    43
+  ],
+  [
+    "Silah Parçası",
+    44
+  ],
+  [
+    "El Yapımı Hurda Araba",
+    45
+  ],
+  [
+    "El Yapımı Motosiklet",
+    46
+  ],
+  [
+    "El Yapımı Araba",
+    47
+  ],
+  [
+    "El Yapımı Jip",
+    48
+  ],
+  [
+    "Kaliteli Araba",
+    49
+  ],
+  [
+    "Kaliteli Jip",
+    50
+  ],
+  [
+    "Kaliteli Spor Araba",
+    51
+  ],
+  [
+    "Kaliteli Zırhlı Araba",
+    52
+  ],
+  [
+    "Kaliteli Motosiklet",
+    53
+  ],
+  [
+    "Karavan",
+    54
+  ],
+  [
+    "Yumruk",
+    55
+  ],
+  [
+    "Uzun Boru",
+    56
+  ],
+  [
+    "Taş Çekiç",
+    57
+  ],
+  [
+    "Basit Metal Bıçak",
+    58
+  ],
+  [
+    "Basit Çelik Bıçak",
+    59
+  ],
+  [
+    "Gelişmiş Metal Bıçak",
+    60
+  ],
+  [
+    "Gelişmiş Çelik Bıçak",
+    61
+  ],
+  [
+    "Yüksek Kalite Çelik Bıçak",
+    62
+  ],
+  [
+    "Beyzbol Sopası",
+    63
+  ],
+  [
+    "Çivili Beyzbol Sopası",
+    64
+  ],
+  [
+    "Basit Balta",
+    65
+  ],
+  [
+    "Gelişmiş Balta",
+    66
+  ],
+  [
+    "Basit Gürz",
+    67
+  ],
+  [
+    "Gelişmiş Gürz",
+    68
+  ],
+  [
+    "Basit Çelik Kılıç",
+    69
+  ],
+  [
+    "Gelişmiş Çelik Kılıç",
+    70
+  ],
+  [
+    "Basit Pala",
+    71
+  ],
+  [
+    "Gelişmiş Pala",
+    72
+  ],
+  [
+    "Yay",
+    73
+  ],
+  [
+    "Arbalet",
+    74
+  ],
+  [
+    "Mekanik Arbalet",
+    75
+  ],
+  [
+    "El Yapımı Tabanca",
+    76
+  ],
+  [
+    "El Yapımı Tüfek",
+    77
+  ],
+  [
+    "Eskimiş Tabanca",
+    78
+  ],
+  [
+    "Kaliteli Tabanca",
+    79
+  ],
+  [
+    "Askeri Tabanca",
+    80
+  ],
+  [
+    "Eskimiş Tüfek",
+    81
+  ],
+  [
+    "Kaliteli Tüfek",
+    82
+  ],
+  [
+    "Askeri Tüfek",
+    83
+  ],
+  [
+    "Kaliteli Nişancı Tüfeği",
+    84
+  ],
+  [
+    "Askeri Nişancı Tüfeği",
+    85
+  ],
+  [
+    "Kemik Zırh",
+    86
+  ],
+  [
+    "Deri Zırh",
+    87
+  ],
+  [
+    "Kaliteli Deri Zırh",
+    88
+  ],
+  [
+    "Metal Kaplama Zırh",
+    89
+  ],
+  [
+    "Ağır Metal Kaplama Zırh",
+    90
+  ],
+  [
+    "Çelik Kaplama Zırh",
+    91
+  ],
+  [
+    "Ağır Çelik Kaplama Zırh",
+    92
+  ],
+  [
+    "Kimyasal Zırh",
+    93
+  ],
+  [
+    "Gelişmiş Kimyasal Zırh",
+    94
+  ],
+  [
+    "CRM Zırhı",
+    95
+  ],
+  [
+    "Gelişmiş CRM Zırhı",
+    96
+  ],
+  [
+    "CW Zırhı",
+    97
+  ],
+  [
+    "Gelişmiş CW Zırhı",
+    98
+  ],
+  [
+    "Katana",
+    99
+  ],
+  [
+    "Kirli Su",
+    100
+  ],
+  [
+    "Su",
+    101
+  ],
+  [
+    "Süt",
+    102
+  ],
+  [
+    "Domates",
+    103
+  ],
+  [
+    "Yeşillik",
+    104
+  ],
+  [
+    "Ton Balığı",
+    105
+  ],
+  [
+    "Biber",
+    106
+  ],
+  [
+    "Çiğ Patates",
+    107
+  ],
+  [
+    "Haşlanmış Patates",
+    108
+  ],
+  [
+    "Etli Patates Yemeği",
+    109
+  ],
+  [
+    "Elma",
+    110
+  ],
+  [
+    "Çiğ Mantar",
+    111
+  ],
+  [
+    "Haşlanmış Mantar",
+    112
+  ],
+  [
+    "Konserve Yemek",
+    113
+  ],
+  [
+    "Çiğ Et",
+    114
+  ],
+  [
+    "Pişmiş Et",
+    115
+  ],
+  [
+    "Kaliteli Pişmiş Et",
+    116
+  ],
+  [
+    "Et Yemeği",
+    117
+  ],
+  [
+    "Çiğ Tavuk",
+    118
+  ],
+  [
+    "Pişmiş Tavuk",
+    119
+  ],
+  [
+    "Kaliteli Pişmiş Tavuk",
+    120
+  ],
+  [
+    "Çikolata",
+    121
+  ],
+  [
+    "Cips",
+    122
+  ],
+  [
+    "Çiğ Makarna",
+    123
+  ],
+  [
+    "Haşlanmış Makarna",
+    124
+  ],
+  [
+    "Kaliteli Haşlanmış Makarna",
+    125
+  ],
+  [
+    "Kahve",
+    126
+  ],
+  [
+    "Çiğ Salam",
+    127
+  ],
+  [
+    "Haşlanmış Salam",
+    128
+  ],
+  [
+    "Çerez",
+    129
+  ],
+  [
+    "Gazlı İçecek",
+    130
+  ],
+  [
+    "Alkol",
+    131
+  ],
+  [
+    "Kuru Bakliyat",
+    132
+  ],
+  [
+    "Sebze Çorbası",
+    133
+  ],
+  [
+    "Baharat",
+    134
+  ],
+  [
+    "Salça",
+    135
+  ],
+  [
+    "Ekmek",
+    136
+  ],
+  [
+    "Çiğ Yumurta",
+    137
+  ],
+  [
+    "Haşlanmış Yumurta",
+    138
+  ],
+  [
+    "Bezelye Yemeği",
+    139
+  ],
+  [
+    "Mercimek Çorbası",
+    140
+  ],
+  [
+    "Nohut Çorbası",
+    141
+  ],
+  [
+    "Domates Çorbası",
+    142
+  ],
+  [
+    "Mantar Çorbası",
+    143
+  ],
+  [
+    "Biber Çorbası",
+    144
+  ],
+  [
+    "Tavuksuyu Çorbası",
+    145
+  ],
+  [
+    "Yahni",
+    146
+  ],
+  [
+    "Sandviç",
+    147
+  ],
+  [
+    "Güveç",
+    148
+  ],
+  [
+    "Sebze Salatası",
+    149
+  ],
+  [
+    "Etli Nohut Yemeği",
+    150
+  ],
+  [
+    "Çorap",
+    151
+  ],
+  [
+    "Paçavra Giysi",
+    153
+  ],
+  [
+    "Plak",
+    154
+  ],
+  [
+    "Müzik Çalar",
+    155
+  ],
+  [
+    "Pet Şişe",
+    156
+  ],
+  [
+    "Kitap",
+    157
+  ],
+  [
+    "Boş Mermi",
+    158
+  ],
+  [
+    "Boş Konserve",
+    159
+  ],
+  [
+    "Gitar",
+    160
+  ],
+  [
+    "Gözlük",
+    161
+  ],
+  [
+    "Fotoğraflar",
+    162
+  ],
+  [
+    "Pil",
+    163
+  ],
+  [
+    "Biblo",
+    164
+  ],
+  [
+    "Cüzdan",
+    165
+  ],
+  [
+    "Kırık Telefon",
+    166
+  ],
+  [
+    "Laptop",
+    167
+  ],
+  [
+    "Çamaşır Suyu",
+    168
+  ],
+  [
+    "Eski İlaçlar",
+    169
+  ],
+  [
+    "Hurda",
+    170
+  ],
+  [
+    "Yorgan",
+    171
+  ],
+  [
+    "Deri Giysi",
+    172
+  ],
+  [
+    "Deri Kılıf",
+    173
+  ],
+  [
+    "Plastik Kap",
+    174
+  ],
+  [
+    "Değerli Takı",
+    175
+  ],
+  [
+    "Şampuan",
+    176
+  ],
+  [
+    "Çiçek",
+    177
+  ],
+  [
+    "Cam Şişe",
+    178
+  ],
+  [
+    "Ayakkabı",
+    179
+  ],
+  [
+    "Çanta",
+    180
+  ],
+  [
+    "Saksı",
+    181
+  ],
+  [
+    "Şarj Aleti",
+    182
+  ],
+  [
+    "Plak",
+    183
+  ],
+  [
+    "Kulaklık",
+    184
+  ],
+  [
+    "Yemek Seti",
+    185
+  ],
+  [
+    "Yastık",
+    186
+  ],
+  [
+    "Çakmak",
+    187
+  ],
+  [
+    "Teneke",
+    188
+  ],
+  [
+    "Tabanca Mermisi",
+    189
+  ],
+  [
+    "Tüfek Mermisi",
+    190
+  ],
+  [
+    "Nişancı Mermisi",
+    191
+  ],
+  [
+    "Kahve Çekirdeği",
+    192
+  ],
+  [
+    "Pet Besini",
+    193
+  ]
+]

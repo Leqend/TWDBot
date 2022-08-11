@@ -1,0 +1,13 @@
+{
+    "owners":["",""],
+    "prefix":"!",
+    "guildId":"",
+    "token":"",
+    "yetkili": {
+        "kurucu": "",
+        "yönetici": "",
+        "moderatör": "",
+        "rm": "",
+        "kılavuz": ""
+    }
+}
