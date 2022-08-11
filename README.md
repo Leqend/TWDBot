@@ -10,3 +10,9 @@
 
 > **3)** **Başlat.bat** Dosyasını Çalıştır
 
+## Gereken Modüller:
+all.db: 0.1.5
+discord.js: 13.6.0
+moment-timezone: 0.5.34
+
+
